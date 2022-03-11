@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less_12", "Less_12\Less_12.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less_13", "Less_13\Less_13.csproj", "{61E3784B-8638-4BB7-A71A-D8D8114D607A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralize", "..\..\..\Downloads\Pluralize.csproj\Pluralize.csproj", "{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{61E3784B-8638-4BB7-A71A-D8D8114D607A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61E3784B-8638-4BB7-A71A-D8D8114D607A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61E3784B-8638-4BB7-A71A-D8D8114D607A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105ABC87-92A4-42BA-8B34-5232D8A1FDC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
