@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 // 1 Option
 var sum = Enumerable.Range(0, 1000).Where(i => i % 3 == 0 | i % 5 == 0).Sum();
 Console.WriteLine(sum);
