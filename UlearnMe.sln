@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cond_4", "Cond_4\Cond_4.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cond_1", "Cond_1\Cond_1.csproj", "{60D9D3BF-B7DD-451A-8B14-11374CB9FF97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timus1740", "Timus1740\Timus1740.csproj", "{6CC47FA3-A95A-4CB3-B16A-3D0B48307C51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{60D9D3BF-B7DD-451A-8B14-11374CB9FF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60D9D3BF-B7DD-451A-8B14-11374CB9FF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60D9D3BF-B7DD-451A-8B14-11374CB9FF97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC47FA3-A95A-4CB3-B16A-3D0B48307C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC47FA3-A95A-4CB3-B16A-3D0B48307C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC47FA3-A95A-4CB3-B16A-3D0B48307C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC47FA3-A95A-4CB3-B16A-3D0B48307C51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
