@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "..\..\..\Downlo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timus1493", "Timus1493\Timus1493.csproj", "{D074D8B5-C0F0-41AF-B63A-61F3366CB9D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cond_4", "Cond_4\Cond_4.csproj", "{7CEA7A79-5688-405E-AC6C-49B6677349D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D074D8B5-C0F0-41AF-B63A-61F3366CB9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D074D8B5-C0F0-41AF-B63A-61F3366CB9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D074D8B5-C0F0-41AF-B63A-61F3366CB9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CEA7A79-5688-405E-AC6C-49B6677349D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEA7A79-5688-405E-AC6C-49B6677349D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEA7A79-5688-405E-AC6C-49B6677349D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEA7A79-5688-405E-AC6C-49B6677349D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
